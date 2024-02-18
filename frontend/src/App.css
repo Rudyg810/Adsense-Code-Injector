@@ -1,0 +1,10 @@
+.container{
+  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+  height: 100vh;
+  display: flex;
+}
+
+.equi{
+  display:'flex';
+  flex: 1
+}
